@@ -31,7 +31,7 @@ I'm an Engineering student based in Petrópolis, Brazil 🇧🇷, with a strong 
 
 ### 📊 GitHub Stats
 
-![Daniel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DaaniSKY&show_icons=true&theme=radical)
+![Daniel's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=DaaniSKY&theme=radical)
 
 ---
 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/daniel-de-oliveira-alves)
