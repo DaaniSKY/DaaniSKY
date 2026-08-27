@@ -29,9 +29,5 @@ I'm an Engineering student based in Petrópolis, Brazil 🇧🇷, with a strong 
 * **Space Invaders Clone:** A classic arcade game developed entirely in **P3 Assembly**, featuring custom interrupt routines and memory manipulation, reinforcing a deep understanding of hardware interaction.
 * **Academic Management System:** A full-stack application built with **Node.js, React, and Vite**, demonstrating the ability to create fast, scalable, and secure web interfaces.
 
-### 📊 GitHub Stats
-
-![Daniel's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=DaaniSKY&theme=radical)
-
 ---
 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/daniel-de-oliveira-alves)
